@@ -8,7 +8,7 @@
 
 这是一个简单的超市管理系统，实现了对超市商品和超市员的简单管理。
 
-**它的功能如下:**
+它的功能如下:
 
 ![market-system](https://oss.elltor.com/uploads/2020/market-system_1603626326657.png)
 
@@ -18,11 +18,13 @@
 
 
 
+
 ### score-management
 
 这是一个简答的成绩管理系统。
 
-**它的功能如下:**
+它的功能如下:
+
 ![score-management](https://oss.elltor.com/uploads/2020/score-management_1603626326640.png)
 
 
