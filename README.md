@@ -16,6 +16,10 @@
 
 更加详细的信息情况 market-system 中的`功能示例.docx`文件
 
+启动说明:
+
+启动最好在在IDEA,  里面给的是idea配置Tomcat的教程.
+
 
 
 
@@ -27,10 +31,17 @@
 
 ![score-management](https://oss.elltor.com/uploads/2020/score-management_1603626326640.png)
 
+启动说明:
+
+需要在ecilipse上启动.
+
+
 
 ### 图书信息管理系统
 
 这是一个使用`java`的awt和swing组件实现的一个简易图书管理系统, 没有连接数据库, 使用文件来存储数据的.
 
+启动说明:
 
+需要在ecilipse上启动.
 
