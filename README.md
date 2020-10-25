@@ -10,7 +10,7 @@
 
 **它的功能如下:**
 
-![](./images/market-system.png)
+![market-system](https://oss.elltor.com/uploads/2020/market-system_1603626326657.png)
 
 
 
@@ -23,9 +23,7 @@
 这是一个简答的成绩管理系统。
 
 **它的功能如下:**
-
-![](./images/score-management.png)
-
+![score-management](https://oss.elltor.com/uploads/2020/score-management_1603626326640.png)
 
 
 ### 图书信息管理系统
